@@ -11,7 +11,7 @@ Raspberry Pi tool for saving and collecting data from different sensors (MPU-925
 
 # Screenshots
 
-![View](/screenshots/scr01.png)
+![View](/Screenshots/scr01.png)
 
 # Usage
 
